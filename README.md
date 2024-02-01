@@ -6,3 +6,5 @@ The user is authenticated using LDAP credentials and a cookie is issued and the 
 Thus allowing authentication through SSO only later on. The cookie generated is used to login the user to all websites registered with the SSO.
 
 The application uses django rest framework for building the web API and dbsqlite3 as the database.
+
+Tech Stack: Django, dbsqlite3, HTML/CSS
